@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster Pro — Online Quiz & Assessment System",
+  "description": "Complete MCQ testing platform with live timers, instant scoring, question navigation, leaderboards, and detailed performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
